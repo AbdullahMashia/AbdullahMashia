@@ -2,7 +2,6 @@
 My name is Abdullah, and I am a Cybersecurity Specialist, Network Engineer.
 
 - 🔭 I’m currently working on CS50 project YemChatty
-- 🌱 I’m currently learning...
 - I recently built a Student portal for universities check it out here https://github.com/AbdullahMashia/university_portal_flask.git
 
 - 📫 How to reach me: linkedin.com/in/abdullah-mashia-0b712b2b5
