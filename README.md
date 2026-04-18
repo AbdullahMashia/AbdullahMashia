@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Abdullah, and I am a Cybersecurity Specialist, Network Engineer.
 
-- 🔭 I’m currently working on WebSoc Courses.
+- 🔭 I’m currently working on EHE, Ethical hacker , Python for every body
 - I recently built a Student portal for universities check it out here 
 
 - 📫 How to reach me: linkedin.com/in/abdullah-mashia-0b712b2b5
