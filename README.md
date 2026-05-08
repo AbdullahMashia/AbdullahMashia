@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Abdullah, and I am a Cybersecurity Specialist, Network Engineer.
 
-- 🔭 I’m currently working on EHE, Ethical hacker , Python for every body
+- 🔭 I’m currently working on  Ethical hacker form cisco , Python for every body , Security+ perpreation course
 - I recently built a Student portal for universities check it out here 
 
 - 📫 How to reach me: linkedin.com/in/abdullah-mashia-0b712b2b5
